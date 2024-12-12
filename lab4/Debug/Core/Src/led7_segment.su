@@ -1,0 +1,4 @@
+led7_segment.c:13:6:display7SEG	16	static
+led7_segment.c:105:6:update_led_buffer	4	static
+led7_segment.c:111:6:led7_segment	24	static
+led7_segment.c:222:6:traffic_light_modify	8	static
